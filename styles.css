@@ -1,0 +1,9 @@
+body{
+    background: rgb(255, 0, 212);
+}
+P{
+    font-size: larger; 
+    font-weight: bolder;
+   color: rgb(128, 18, 73);
+    font-family: monospace;
+} 
